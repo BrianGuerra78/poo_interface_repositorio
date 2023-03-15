@@ -1,0 +1,19 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÞÑïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²»íŽÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯®ß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªø½þûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®óºõÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(†µû¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106""9Replace this use of System.out or System.err by a logger.(çýšŠ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ýÿµÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(®óºõÿÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(„«Á§ÿÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(‘¾òÕþÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¤‘Ò¢ýÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ö€²
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(‡þÛÕ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(©®ªî
+g
+java:S1128"ERemove this unused import 'org.bguerra.poointerfaces.modelo.Cliente'.(»´’Ûøÿÿÿÿ8£àÄ¸Ç0
